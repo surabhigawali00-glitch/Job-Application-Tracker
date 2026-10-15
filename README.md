@@ -19,10 +19,9 @@ A full-stack web app to track job applications in one place.
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ## Screenshots
-[Add 2 screenshots here: dashboard and application form]
-
-## Live Demo
-[Add link here, or delete this section]
+![Dashboard](Dashboard.png)
+![Application From](AddApplication.png)
+![Applications](Applications.png)
 
 ## API Endpoints
 
