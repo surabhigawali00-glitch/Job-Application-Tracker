@@ -20,7 +20,7 @@ A full-stack web app to track job applications in one place.
 
 ## Screenshots
 ![Dashboard](Dashboard.png)
-![Application From](AddApplication.png)
+![Application From](ApplicationFrom.png)
 ![Applications](Applications.png)
 
 ## API Endpoints
